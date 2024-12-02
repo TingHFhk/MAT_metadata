@@ -1,0 +1,13 @@
+{
+    "name": "MyAwesomeToken",
+    "symbol": "MAT",
+    "description": "This is an awesome token created on Solana!",
+    "image": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-3-Desktop-RHD-v3.png",
+    "attributes": [
+      { "trait_type": "Type", "value": "Utility Token" }
+    ],
+    "properties": {
+      "files": [{ "uri": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-3-Desktop-RHD-v3.png", "type": "image/png" }]
+    }
+  }
+  
